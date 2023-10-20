@@ -1,0 +1,7 @@
+/home/student/pmk/zadanie5/build-zadanie5-Desktop_Qt_6_5_1_GCC_64bit-Debug/CMakeFiles/zadanie5.dir
+/home/student/pmk/zadanie5/build-zadanie5-Desktop_Qt_6_5_1_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
+/home/student/pmk/zadanie5/build-zadanie5-Desktop_Qt_6_5_1_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/home/student/pmk/zadanie5/build-zadanie5-Desktop_Qt_6_5_1_GCC_64bit-Debug/CMakeFiles/list_install_components.dir
+/home/student/pmk/zadanie5/build-zadanie5-Desktop_Qt_6_5_1_GCC_64bit-Debug/CMakeFiles/install.dir
+/home/student/pmk/zadanie5/build-zadanie5-Desktop_Qt_6_5_1_GCC_64bit-Debug/CMakeFiles/install/local.dir
+/home/student/pmk/zadanie5/build-zadanie5-Desktop_Qt_6_5_1_GCC_64bit-Debug/CMakeFiles/install/strip.dir
